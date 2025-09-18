@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**not-Bartek/not-Bartek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Science student at Warsaw University of Technology.  
+I am passionate about Artificial Intelligence and actively developing my skills in this field.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fast learner
+- Experienced with Python, C++, Java, Kotlin
+- Interested in AI, machine learning, and data science
+- Open to collaboration and new challenges
+
+## 🧑‍💻 Skills
+
+- Python
+- C++
+- Java
+- Kotlin
+- Git
+- Quick adaptation to new tools and frameworks
+- Group Work
+
+## ⚽ Personal Interests
+
+- Football
+- Quantum Physics
+- Playing Guitar
+
+Feel free to contact me or check out my projects!
+
+---
