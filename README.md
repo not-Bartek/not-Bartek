@@ -6,13 +6,14 @@ I am passionate about Artificial Intelligence and actively developing my skills 
 ## 🚀 About Me
 
 - Fast learner
-- Experienced with Python, C++, Java, Kotlin
+- Experienced with Python, C, C++, Java, Kotlin
 - Interested in AI, machine learning, and data science
 - Open to collaboration and new challenges
 
 ## 🧑‍💻 Skills
 
 - Python
+- C
 - C++
 - Java
 - Kotlin
