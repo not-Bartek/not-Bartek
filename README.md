@@ -18,6 +18,9 @@ I am passionate about Artificial Intelligence and actively developing my skills 
 - Java
 - Kotlin
 - Git
+- Machine Learning
+- Deep Learning
+- AI Engineering
 - Quick adaptation to new tools and frameworks
 - Group Work
 
